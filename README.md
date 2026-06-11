@@ -1,6 +1,6 @@
 # The Ultimate Trading & Technical Analysis Masterclass
 
-A self-contained trading course — single HTML file, no server required. Trading-terminal theme, sidebar navigation, progress tracking, a **Try It** exercise every lesson, and a **built-in SVG chart engine** (no external libraries) that draws candlestick charts, indicators, option payoff diagrams, and Greek curves inline.
+A self-contained trading course — single HTML file, no server required. Clean brokerage-app theme (Inter, Robinhood-style green), sidebar navigation, progress tracking, a **Try It** exercise every lesson, and a **built-in SVG chart engine** (no external libraries) that draws candlestick charts, indicators, option payoff diagrams, and Greek curves inline.
 
 **16 parts · 122 lessons · 127 charts · from a brokerage quote to options strategies — example-driven, with the math.**
 
