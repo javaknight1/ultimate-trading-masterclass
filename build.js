@@ -29,6 +29,8 @@ const ORDER = [
   ['p13', '13 · Risk & Psychology', 13],
   ['p14', '14 · Backtesting & Systems', 14],
   ['p15', '15 · Macro & Other Markets', 15],
+  ['p16', '16 · Platforms & Software', 16],
+  ['p17', '17 · APIs & Automation', 17],
 ];
 
 const cover = {
@@ -44,7 +46,7 @@ const cover = {
   <div class="card"><div class="ct">🛡 Risk first</div><p>Position sizing, expectancy, backtesting, journaling, and the psychology — the parts that actually keep you in the game.</p></div>
 </div>
 <h3>How this course is structured</h3>
-<p>Sixteen parts, building in order: the stock and its numbers → fundamentals &amp; valuation → technical analysis → options, Greeks &amp; strategies → risk, systems, and the macro picture. Mark lessons complete as you go; your progress bar lives in the sidebar.</p>
+<p>Eighteen parts, building in order: the stock and its numbers → fundamentals &amp; valuation → technical analysis → options, Greeks &amp; strategies → risk, systems, and the macro picture → the platforms, software &amp; APIs to put it all into practice. Mark lessons complete as you go; your progress bar lives in the sidebar.</p>
 <div class="box danger"><div class="bt">Educational only — not financial advice.</div> Nothing here is a recommendation to buy or sell anything. All charts use <em>synthetic, illustrative</em> data (fictional tickers), and option prices are model estimates. Markets involve real risk of loss; do your own research.</div>
 </div>
 ` };

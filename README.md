@@ -2,7 +2,7 @@
 
 A self-contained trading course — single HTML file, no server required. Clean brokerage-app theme (Inter, Robinhood-style green), sidebar navigation, progress tracking, a **Try It** exercise every lesson, and a **built-in SVG chart engine** (no external libraries) that draws candlestick charts, indicators, option payoff diagrams, and Greek curves inline.
 
-**16 parts · 122 lessons · 127 charts · from a brokerage quote to options strategies — example-driven, with the math.**
+**18 parts · 139 lessons · 127 charts · from a brokerage quote to options strategies — example-driven, with the math.**
 
 - **00 · Markets & Brokerage** — order types, market structure, the bid/ask, hidden costs
 - **01 · Reading a Stock** — every number on a quote (cap, float, P/E, EPS, beta, EV/EBITDA, short interest…), calculated
@@ -13,6 +13,8 @@ A self-contained trading course — single HTML file, no server required. Clean 
 - **10 · Options Basics** · **11 · The Greeks** — calls/puts, the chain; delta/gamma/theta/vega/rho with Black–Scholes curves
 - **12 · Options Strategies** — covered calls, spreads, straddles, condors, butterflies, calendars — each with a payoff diagram
 - **13 · Risk & Psychology** · **14 · Backtesting & Systems** · **15 · Macro & Other Markets**
+- **16 · Platforms & Software** — TradingView (charts, screeners, alerts, Pine Script & the strategy tester), thinkorswim, paper trading
+- **17 · APIs & Automation** — market-data & broker APIs (Alpaca, IBKR), placing orders in code, TradingView webhooks, backtesting frameworks, a simple bot, and the guardrails
 
 **Educational only — not financial advice.** All charts use synthetic, illustrative data (fictional tickers); option prices are model estimates.
 
